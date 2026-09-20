@@ -43,6 +43,7 @@ A Streamlit chat interface (`app.py`) supports text queries, image uploads, and 
 │ └── data_pipeline_and_eval.ipynb # Full data cleaning, embedding, and evaluation pipeline
 ├── requirements.txt
 └── .gitignore
+EDA_CLIP_RAG_LLM-Pipeline,ipynb is the original notebook I used to develop and create this project. Included is the exploratory data analysis (EDA), as well as the embeddings with CLIP and the RAG chatbot architecture.
 
 
 ## Evaluation
